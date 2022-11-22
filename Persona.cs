@@ -9,5 +9,7 @@ namespace Ejemplo_git
     class Persona
     {
         public string nombre { get; set; }
+
+        public int edad { get; set; }
     }
 }
